@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* I like to code
+* I like to play games
+* I like to read
